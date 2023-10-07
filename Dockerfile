@@ -1,4 +1,4 @@
-ARG BUILD_FROM=git@github.com:PersistentDabbler/home-management.git
+ARG BUILD_FROM=https://github.com/PersistentDabbler/home-management.git
 FROM $BUILD_FROM
 
 # Install requirements for add-on

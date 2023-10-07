@@ -1,4 +1,4 @@
-ARG BUILD_FROM=https://github.com/PersistentDabbler/home-management.git
+ARG BUILD_FROM=ghcr.io/hassio-addons/base:14.2.1
 FROM $BUILD_FROM
 
 # Install requirements for add-on

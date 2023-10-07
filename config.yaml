@@ -1,7 +1,7 @@
-name: "This is my app"
-description: "I made this shizzz"
+name: "Home Management"
+description: "Keep track of your household."
 version: "0.0.4"
-slug: "app_shizzle"
+slug: "homemanage"
 init: false
 arch:
   - aarch64

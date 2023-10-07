@@ -1,0 +1,14 @@
+name: "This is my app"
+description: "I made this shizzz"
+version: "0.0.3"
+slug: "app_shizzle"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+startup: services
+ports:
+  8000/tcp: 8000

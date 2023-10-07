@@ -1,6 +1,6 @@
 name: "This is my app"
 description: "I made this shizzz"
-version: "0.0.3"
+version: "0.0.4"
 slug: "app_shizzle"
 init: false
 arch:
